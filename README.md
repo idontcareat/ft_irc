@@ -36,3 +36,14 @@ Executez le serveur IRC:
 ```bash
 ./ircserv [port] [password]
 ```
+## Ressources Externe
+
+- [Network programming guide](https://beej.us/guide/bgnet/pdf/bgnet_a4_c_1.pdf)
+
+- [Irc : Protocol explanation](http://chi.cs.uchicago.edu/chirc/irc.html)
+
+- [ModernIrc : Complete command reference](https://modern.ircdocs.horse/)
+
+- [IRC2812](https://www.tech-invite.com/y25/tinv-ietf-rfc-2812.html) 
+
+- [Irssi Doc](https://irssi.org/New-users/)
